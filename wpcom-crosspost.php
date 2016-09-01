@@ -96,7 +96,7 @@ class WPCOM_CrossPost {
 	 * @param  string  $from
 	 * @return bool
 	 */
-	public function create_cross_posts( $from = '-7 days' ) {
+	public function create_cross_posts( $from = 'yesterday' ) {
 		$posts = $this->get_posts( $from );
 
 		if ( ! function_exists( 'post_exists' ) ) {
