@@ -11,7 +11,7 @@ Cross-Post from your WordPress.com blog to your self-hosted WordPress website
 
 == Description ==
 
-WordPress.com Cross-Post is a free plugin that syncs your WordPress.com blog with your self-hosted WordPress site automatically, every day.
+WP.com Cross-Post is a free plugin that syncs your WordPress.com blog with your self-hosted WordPress site automatically, every day.
 
 It creates posts on your self-hosted WordPress site by fetching them from WordPress.com through the API and publishes them automatically.
 

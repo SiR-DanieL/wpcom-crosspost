@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: WordPress.com Cross-Post
+ * Plugin Name: WP.com Cross-Post
  * Plugin URI: https://nicola.blog/
  * Description: Cross-Post from your WordPress.com blog to your self-hosted WordPress website
  * Version: 1.0.0
