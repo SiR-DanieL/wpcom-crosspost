@@ -1,5 +1,5 @@
-=== WooCommerce ===
-Contributors: automattic
+=== WP.com Cross-Post ===
+Contributors: nicolamustone, automattic
 Tags: post, blog, cross-posts, cross, sync, wordpress.com, categories
 Requires at least: 4.4
 Tested up to: 4.6
